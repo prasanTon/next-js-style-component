@@ -5,15 +5,15 @@ import Footer from '../src/components/shared/Footer'
 import Navbar from '../src/components/shared/Navbar'
 import styles from '../styles/Home.module.css'
 
-export default function Home() {
+export default function About() {
   return (
     <MainLayout>
       <Head>
-        <title>Create Next App</title>
+        <title>about</title>
       </Head>
 
      
-       <h1> Home Page</h1>
+       <h1> About Page</h1>
        </MainLayout>
    
 
