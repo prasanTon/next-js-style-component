@@ -9,8 +9,16 @@ folder project
 -create main layout 
 -add Navbar and footer in MainLayout
 -add MainLayout into index.js
--_document.js in folder Page render content from server fix problem loading page
--install babel component 
+
+  ***************** config style component **********************
+  
+  -_document.js in folder Page render content from server fix problem loading page
+
+  
+  
+  
+  
+  -install babel component 
 npm i babel-plugin-styled-components
 -create file babelrc in folder styles
 {
